@@ -37,34 +37,6 @@ It connects developers, organizers and players by creating spaces where indie ga
 
 My portfolio showcasing my projects and development work.
 
-<h2>🛠️ Tech Stack</h2>
-<h3>Frontend</h3>
-
-•  React<br>
-•  TailwindCSS<br>
-•  Vite<br>
-•  JavaScript / TypeScript<br>
-•  HTML5 / CSS3
-
-<h3>Backend</h3>
-
-•  Node.js<br>
-•  APIs<br>
-•  Databases
-
-<h3>Tools</h3>
-
-•  Git<br>
-•  GitHub<br>
-•  VS Code<br>
-•  Figma
-
-<h2>📫 Contact Me</h2>
-
-💼 <b>LinkedIn</b><br>
-  or<br>
-🎮 <b>Discord</b><br>
-
 Feel free to reach out for projects, collaborations or opportunities 🚀
 
 <h2>🌍 Languages</h2>
