@@ -2,19 +2,13 @@
 
 ### 🚀 Full-Stack Developer building modern web platforms
 
-![Profile Views](https://komarev.com/ghpvc/?username=Riskooooo&label=Profile%20views&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Riskooooo&label=Profile%20views&color=blueviolet&style=for-the-badge) [![Discord](https://img.shields.io/badge/Discord-risko__-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/397464408055349259)
 
 # ⚡ Tech Stack
 
 ![React](https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,js,ts,git,github,vscode,figma)
 
-<h2>🧑‍💻 About Me</h2>
-
-•  🌍 Passionate about creating fast, scalable and clean user experiences.<br>
-
-•  ⚡ Focused on performance, UI/UX and clean architecture<br>
-
-•  🧠 Always learning and improving
+🧠 Always learning and improving
 
 <h2>🚀 Featured Projects</h2>
 <h3>🎮 Naytics</h3>
@@ -41,7 +35,7 @@ Feel free to reach out for projects, collaborations or opportunities 🚀
 
 <h2>🌍 Languages</h2>
 
-🇫🇷 Français<br>
-🇬🇧 English<br>
+•  🇫🇷 Français<br>
+•  🇬🇧 English<br>
 <br>
-⭐ If you like my projects, don't forget to star them!
+⭐ If you like my projects, don't forget to star them !
