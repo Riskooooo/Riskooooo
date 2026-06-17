@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Fabian%20(Risko)&fontSize=32&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Fabian%20(Risko)&fontSize=32&fontAlignY=45" />
 
 ### Full-Stack Developer building modern web platforms & Game on Steam
 
@@ -23,5 +23,5 @@ It serves as a place to showcase, distribute and centralize my game projects.
 🔗 https://store.steampowered.com/app/2359390/Just_Climb
 
 Just Climb is a chaotic and challenging platformer based on precision, physics, and fun.
-<br>
+<br><br>
 ⭐ If you like my projects !
