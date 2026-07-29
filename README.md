@@ -27,6 +27,10 @@ Just Climb is a chaotic and challenging platformer based on precision, physics, 
 
 <!-- SPOTIFY:START -->
 
+🎧 Currently Playing
+
+**The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix** — Age Of Love
+
 <!-- SPOTIFY:END -->
 
 ⭐ If you like my projects !
