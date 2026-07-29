@@ -10,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update Spotify status
-        uses: novatorem/novatorem@v0.9.0
+      - name: Run Novatorem
+        uses: novatorem/novatorem@master
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          commit_message: "Update Spotify status"
