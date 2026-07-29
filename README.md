@@ -25,12 +25,8 @@ It serves as a place to showcase, distribute and centralize my game projects.
 Just Climb is a chaotic and challenging platformer based on precision, physics, and fun.
 <br><br>
 
-<!-- SPOTIFY:START -->
+## 🎧 Currently Playing
 
-🎧 Currently Playing
-
-**The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix** — Age Of Love
-
-<!-- SPOTIFY:END -->
+<img src="./spotify.svg" width="500">
 
 ⭐ If you like my projects !
