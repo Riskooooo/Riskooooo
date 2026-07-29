@@ -84,27 +84,25 @@ animation: move 1s infinite;
 
 <rect width="500" height="180" rx="20" fill="#121212"/>
 
-<image href="{image}" x="20" y="20" width="140" height="140"/>
 
-
-<text x="180" y="45" class="status">
+<text x="30" y="45" class="status">
 {status}
 </text>
 
 
-<text x="180" y="80" class="title">
+<text x="30" y="80" class="title">
 {title[:35]}
 </text>
 
 
-<text x="180" y="110" class="text">
+<text x="30" y="110" class="text">
 {artist[:35]}
 </text>
 
 
-<rect x="180" y="135" width="260" height="8" rx="5" fill="#333"/>
+<rect x="30" y="135" width="260" height="8" rx="5" fill="#333"/>
 
-<rect x="180" y="135" width="{260*percent/100}" height="8" rx="5" fill="#1DB954"/>
+<rect x="30" y="135" width="{260*percent/100}" height="8" rx="5" fill="#1DB954"/>
 
 
 <rect class="bar" x="450" y="80" width="5" fill="#1DB954"/>
