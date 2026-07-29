@@ -1,4 +1,4 @@
-name: Spotify Now Playing
+name: Spotify Profile
 
 on:
   schedule:
@@ -6,16 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  spotify:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Run Novatorem
-        uses: novatorem/novatorem@master
+      - name: Spotify README
+        uses: spotify-github-profile/spotify-github-profile@v1
         with:
-          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          client-id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client-secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh-token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
