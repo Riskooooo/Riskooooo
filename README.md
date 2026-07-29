@@ -27,6 +27,6 @@ Just Climb is a chaotic and challenging platformer based on precision, physics, 
 
 ## 🎧 Currently Playing
 
-<img src="./spotify.svg" width="500">
+<img src="https://raw.githubusercontent.com/Riskooooo/Riskooooo/main/spotify.svg" width="500">
 
 ⭐ If you like my projects !
