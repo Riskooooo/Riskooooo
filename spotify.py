@@ -1,6 +1,7 @@
 import os
 import requests
 import html
+from datetime import datetime
 
 CLIENT_ID = os.environ["SPOTIFY_CLIENT_ID"]
 CLIENT_SECRET = os.environ["SPOTIFY_CLIENT_SECRET"]
@@ -96,7 +97,7 @@ animation: move 1s infinite;
 
 
 <text x="30" y="110" class="text">
-{artist[:35]}
+{artist[:35]} • Updated {datetime.now().strftime("%H:%M:%S")}
 </text>
 
 
