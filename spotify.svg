@@ -1,0 +1,62 @@
+
+<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title {
+font: bold 18px Arial;
+fill: white;
+}
+
+.text {
+font: 14px Arial;
+fill: #b3b3b3;
+}
+
+.status {
+font: bold 12px Arial;
+fill: #1DB954;
+}
+
+.bar {
+animation: move 1s infinite;
+}
+
+@keyframes move {
+0% { height: 10px; }
+50% { height: 30px; }
+100% { height: 10px; }
+}
+</style>
+
+
+<rect width="500" height="180" rx="20" fill="#121212"/>
+
+<image href="https://i.scdn.co/image/ab67616d0000b273a3b5b6d31ff89d7b3d4775fa" x="20" y="20" width="140" height="140"/>
+
+
+<text x="180" y="45" class="status">
+● LISTENING NOW
+</text>
+
+
+<text x="180" y="80" class="title">
+Freestyle Savies #1 - Drill
+</text>
+
+
+<text x="180" y="110" class="text">
+Kanoé
+</text>
+
+
+<rect x="180" y="135" width="260" height="8" rx="5" fill="#333"/>
+
+<rect x="180" y="135" width="122.2" height="8" rx="5" fill="#1DB954"/>
+
+
+<rect class="bar" x="450" y="80" width="5" fill="#1DB954"/>
+<rect class="bar" x="460" y="70" width="5" fill="#1DB954"/>
+<rect class="bar" x="470" y="90" width="5" fill="#1DB954"/>
+
+
+</svg>
