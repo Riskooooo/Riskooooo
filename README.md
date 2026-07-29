@@ -24,4 +24,8 @@ It serves as a place to showcase, distribute and centralize my game projects.
 
 Just Climb is a chaotic and challenging platformer based on precision, physics, and fun.
 <br><br>
+
+<!-- NOVATOREM:START -->
+<!-- NOVATOREM:END -->
+
 ⭐ If you like my projects !
