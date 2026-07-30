@@ -1,0 +1,62 @@
+<svg width="500" height="70" viewBox="0 0 500 70" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.text {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    fill: #b3b3b3;
+}
+
+.bar-bg {
+    fill: #2d333b;
+}
+
+.bar {
+    fill: #58a6ff;
+    animation: progress 3s infinite ease-in-out;
+}
+
+.glow {
+    filter: drop-shadow(0 0 6px #58a6ff);
+}
+
+@keyframes progress {
+    0% {
+        width: 20px;
+    }
+    50% {
+        width: 380px;
+    }
+    100% {
+        width: 20px;
+    }
+}
+</style>
+
+
+<text x="20" y="25" class="text">
+🧠 Always learning and improving...
+</text>
+
+
+<rect 
+    x="20" 
+    y="40" 
+    width="460" 
+    height="10" 
+    rx="5" 
+    class="bar-bg"
+/>
+
+
+<rect 
+    x="20" 
+    y="40" 
+    width="20" 
+    height="10" 
+    rx="5" 
+    class="bar glow"
+/>
+
+
+</svg>
