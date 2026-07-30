@@ -8,7 +8,7 @@
 
 ![React](https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,js,ts,git,github,vscode,figma)
 
-🧠 Always learning and improving...
+<img src="https://raw.githubusercontent.com/Riskooooo/Riskooooo/main/learning.svg">
 
 <h2>🚀 Featured Projects</h2>
 <h3>• Naytics</h3>
