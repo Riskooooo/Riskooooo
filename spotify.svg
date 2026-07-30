@@ -33,23 +33,23 @@ animation: move 1s infinite;
 
 
 <text x="30" y="45" class="status">
-● LISTENING NOW
+○ OFFLINE
 </text>
 
 
 <text x="30" y="80" class="title">
-Don&#x27;t Start Now
+Nothing playing
 </text>
 
 
 <text x="30" y="110" class="text">
-Dua Lipa • Updated 08:44:08
+Spotify • Updated 10:52:13
 </text>
 
 
 <rect x="30" y="135" width="260" height="8" rx="5" fill="#333"/>
 
-<rect x="30" y="135" width="195.0" height="8" rx="5" fill="#1DB954"/>
+<rect x="30" y="135" width="0.0" height="8" rx="5" fill="#1DB954"/>
 
 
 <rect class="bar" x="450" y="80" width="5" fill="#1DB954"/>
