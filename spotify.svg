@@ -38,18 +38,18 @@ animation: move 1s infinite;
 
 
 <text x="30" y="80" class="title">
-Phantom V1 - Slowed Version
+Moulala
 </text>
 
 
 <text x="30" y="110" class="text">
-domi4wave • Updated 23:49:39
+Gambino La MG • Updated 00:05:52
 </text>
 
 
 <rect x="30" y="135" width="260" height="8" rx="5" fill="#333"/>
 
-<rect x="30" y="135" width="127.4" height="8" rx="5" fill="#1DB954"/>
+<rect x="30" y="135" width="33.8" height="8" rx="5" fill="#1DB954"/>
 
 
 <rect class="bar" x="450" y="80" width="5" fill="#1DB954"/>
