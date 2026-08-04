@@ -33,17 +33,17 @@ animation: move 1s infinite;
 
 
 <text x="30" y="45" class="status">
-○ OFFLINE
+● LISTENING NOW
 </text>
 
 
 <text x="30" y="80" class="title">
-Nothing playing
+Trap Queen
 </text>
 
 
 <text x="30" y="110" class="text">
-Spotify • Updated 11:51:08
+Fetty Wap • Updated 13:28:31
 </text>
 
 
