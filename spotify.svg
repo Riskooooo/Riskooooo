@@ -33,23 +33,23 @@ animation: move 1s infinite;
 
 
 <text x="30" y="45" class="status">
-● LISTENING NOW
+○ OFFLINE
 </text>
 
 
 <text x="30" y="80" class="title">
-Beuh R
+Nothing playing
 </text>
 
 
 <text x="30" y="110" class="text">
-Kerchak • Updated 06:46:08
+Spotify • Updated 07:19:54
 </text>
 
 
 <rect x="30" y="135" width="260" height="8" rx="5" fill="#333"/>
 
-<rect x="30" y="135" width="179.4" height="8" rx="5" fill="#1DB954"/>
+<rect x="30" y="135" width="0.0" height="8" rx="5" fill="#1DB954"/>
 
 
 <rect class="bar" x="450" y="80" width="5" fill="#1DB954"/>
