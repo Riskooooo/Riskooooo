@@ -24,7 +24,7 @@ It serves as a place to showcase, distribute and centralize my game projects.
 
 Just Climb is a chaotic and challenging platformer based on precision, physics, and fun.
 
-<h3>• CookTrain</h3>
+<h3>• CookTrain 🆕</h3>
 
 🔗 https://store.steampowered.com/app/xxxxxxx/CookTrain
 
@@ -36,3 +36,5 @@ Work In Progress...
 <img src="https://raw.githubusercontent.com/Riskooooo/Riskooooo/main/spotify.svg" width="500">
 
 ⭐ If you like my projects !
+
+🟣 Discord Risko's Hub : https://discord.gg/gFMMysuyWS
