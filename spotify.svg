@@ -38,18 +38,18 @@ animation: move 1s infinite;
 
 
 <text x="30" y="80" class="title">
-Mec 2 Panam (has to be you)
+GSD
 </text>
 
 
 <text x="30" y="110" class="text">
-JRK 19 • Updated 19:19:32
+Niska • Updated 21:38:20
 </text>
 
 
 <rect x="30" y="135" width="260" height="8" rx="5" fill="#333"/>
 
-<rect x="30" y="135" width="140.4" height="8" rx="5" fill="#1DB954"/>
+<rect x="30" y="135" width="130.0" height="8" rx="5" fill="#1DB954"/>
 
 
 <rect class="bar" x="450" y="80" width="5" fill="#1DB954"/>
